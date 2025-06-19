@@ -1,4 +1,4 @@
-const User = require('../models/user');
+const User = require('../models/User');
 const sequelize = require('../config/db');
 const nodemailer = require("nodemailer");
 require("dotenv").config();
